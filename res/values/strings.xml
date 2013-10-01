@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VideoImageViewDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+     <string name="view_all_frames">All Frames</string>
+     <string name="thirtyFrames_low">30F/480p</string>
+     <string name="sixtyFrames_low">60F/480p</string>
+     <string name="thirtyFrames_high">30F/720p</string>
+
+</resources>
